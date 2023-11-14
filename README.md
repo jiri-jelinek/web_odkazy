@@ -1,7 +1,7 @@
 
 # Vitej v pokusnem repozitari
 
-https://pepa-v.github.io/odkazy1/
+https://jiri-jelinek.github.io/webodkazy
 
 Tento repozitar slouzi k experimentovani s procesem klonovani a editace pomoci vzdaleneho repozitare na platforme GitHub.
 ## Jak zacit, kdyz bychom potrebovali prikazy
