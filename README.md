@@ -9,7 +9,7 @@ Tento repozitar slouzi k experimentovani s procesem klonovani a editace pomoci v
      ```bash
      git config --global user.name ""
      git config --global user.email ""
-     
+     ```
      ```bash
      git config --global --replace-all user.name ""
      git config --global --replace-all user.mail ""
