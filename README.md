@@ -6,19 +6,20 @@ https://jiri-jelinek.github.io/webodkazy
 Tento repozitar slouzi k experimentovani s procesem klonovani a editace pomoci vzdaleneho repozitare na platforme GitHub.
 ## Jak zacit, kdyz bychom potrebovali prikazy
 0. **Ozivovani propojeni:**
-     ```git config --global user.name ""
-     ```git config --global user.email ""
-
-1. **Klonovani repozitare:**
+     ```bash
+     git config --global user.name ""
+     git config --global user.email ""
+     ```
+2. **Klonovani repozitare:**
    - Pouzij prikaz `git clone` pro naklonovani tohoto repozitare na tvuj lokalni stroj, pocitac.
      ```bash
      git clone <odkaz-na-repozitar>
      ```
 
-2. **Editace obsahu:**
+3. **Editace obsahu:**
    - Uprav soubory podle svych potreb a experimentuj s Git operacemi.
 
-3. **Odeslani zmen:**
+4. **Odeslani zmen:**
    - Pridej, commituj a pushuj zmeny zpet do tohoto repozitare.
      ```bash
      git add .
@@ -26,7 +27,7 @@ Tento repozitar slouzi k experimentovani s procesem klonovani a editace pomoci v
      git push origin master
      ```
 
-4. **Pokracuj na svem a v experimentovani:**
+5. **Pokracuj na svem a v experimentovani:**
    - Prozkoumej dalsi Git operace, vytvarej vetve, zkousej slucovani zmen a dalsi.
 
 ## Poznamka
