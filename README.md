@@ -9,17 +9,28 @@ Tento repozitar slouzi k experimentovani s procesem klonovani a editace pomoci v
      ```bash
      git config --global user.name ""
      git config --global user.email ""
+     
+     ```bash
+     git config --global --replace-all user.name ""
+     git config --global --replace-all user.mail ""
      ```
-2. **Klonovani repozitare:**
+1. **Inicializace a další odkazy**
+     ```bash
+     git init
+     ```
+     ```bash
+     
+     ```
+3. **Klonovani repozitare:**
    - Pouzij prikaz `git clone` pro naklonovani tohoto repozitare na tvuj lokalni stroj, pocitac.
      ```bash
      git clone <odkaz-na-repozitar>
      ```
 
-3. **Editace obsahu:**
+4. **Editace obsahu:**
    - Uprav soubory podle svych potreb a experimentuj s Git operacemi.
 
-4. **Odeslani zmen:**
+5. **Odeslani zmen:**
    - Pridej, commituj a pushuj zmeny zpet do tohoto repozitare.
      ```bash
      git add .
@@ -27,7 +38,7 @@ Tento repozitar slouzi k experimentovani s procesem klonovani a editace pomoci v
      git push origin master
      ```
 
-5. **Pokracuj na svem a v experimentovani:**
+6. **Pokracuj na svem a v experimentovani:**
    - Prozkoumej dalsi Git operace, vytvarej vetve, zkousej slucovani zmen a dalsi.
 
 ## Poznamka
