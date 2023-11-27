@@ -19,7 +19,7 @@ Tento repozitar slouzi k experimentovani s procesem klonovani a editace pomoci v
      git init
      ```
      ```bash
-     
+     https://www.itcek.cz/clanky/clanek/540
      ```
 3. **Klonovani repozitare:**
    - Pouzij prikaz `git clone` pro naklonovani tohoto repozitare na tvuj lokalni stroj, pocitac.
