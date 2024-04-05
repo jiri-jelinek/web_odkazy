@@ -1,7 +1,7 @@
 
 # Vitej v pokusnem repozitari
 
-https://jiri-jelinek.github.io/webodkazy
+https://jiri-jelinek.github.io/weblink
 
 Tento repozitar slouzi k experimentovani s procesem klonovani a editace pomoci vzdaleneho repozitare na platforme GitHub.
 ## Jak zacit, kdyz bychom potrebovali prikazy
